@@ -1,2 +1,4 @@
-samples/*
+**/*.spec
 .idea
+build
+dist/zmqout.exe
